@@ -1,11 +1,6 @@
-<h1>*Russian about me*</h1>
-<p>FiolDoll, или же просто Артём.<br>
+<p><b>FiolDoll, или же просто Артём.</b><br>
   Занимаюсь разработкой игр на Юнити. Второстепенно разрабатываю различные приложения, ботов, скрипты, сайты и тд. +- знаю английский. Больше я ничем не выделяюсь</p>
 <a href="https://linktr.ee/FiolDoll">Ссылки</a>
-<h1>*English about me*</h1>
-<p>FiolDoll or Artyom. <br>
-I develop games on Unity. At second i develop programs, bots, scripts, sites and etc. +- know English. Okey. Don`t know))</p>
-<a href="https://linktr.ee/FiolDoll">Links</a>
 <br>
 <br>
 <img
