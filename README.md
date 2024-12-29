@@ -1,9 +1,13 @@
-<p>I`m Unity developer. It is all? Ummm... I`m can make sites, bots, programms and other. Okay?
-<br>I`m losted human. I want pain. Pain. Hehehe. Why? Pain - it is life.</p>
+<h1>*Russian about me*</h1>
+<p>-Привет. Я FiolDoll, или же просто Артём. 
+  Занимаюсь разработкой игр на Юнити. Второстепенно разрабатываю различные приложения, ботов, скрипты, сайты и тд. +- знаю английский. Больше я ничем не выделяюсь</p>
+<a href="https://linktr.ee/FiolDoll">Ссылки</a>
+<h1>*English about me*</h1>
+<p>-Hello. I`m FiolDoll or simple Artyom. 
+I develop games on Unity. At second i develop programs, bots, scripts, sites and etc. +- know English. Okey. Don`t know))</p>
+<a href="https://linktr.ee/FiolDoll">Links</a>
 <br>
-<p>It`s me btw</p>
+<br>
 <img
   class="fit-picture"
-  src="https://i.pinimg.com/736x/09/f9/8d/09f98d7525ba5e44b35b324b1a3008c7.jpg"/>
-<br>
-<a href="https://linktr.ee/FiolDoll">Links</a>
+  src="https://i.pinimg.com/736x/0c/79/bd/0c79bd0fc3553400a1e22656f4eed6dd.jpg"/>
