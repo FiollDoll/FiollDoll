@@ -1,8 +1,16 @@
-<p><b>FiolDoll, или же просто Артём.</b><br>
-  Занимаюсь разработкой игр на Юнити. Второстепенно разрабатываю различные приложения, ботов, скрипты, сайты и тд. +- знаю английский. Больше я ничем не выделяюсь</p>
-<a href="https://linktr.ee/FiolDoll">Ссылки</a>
-<br>
-<br>
-<img
-  class="fit-picture"
-  src="https://i.pinimg.com/736x/0c/79/bd/0c79bd0fc3553400a1e22656f4eed6dd.jpg"/>
+
+# FiolDoll
+Hi! I`m Games Developer from Russia. Unity lover.
+
+My career starts in 2021. I spear on Russia, because it is my native language and +- know English(not excellent). Also I love cats.
+
+
+## Skills
+
+- Unity
+- C# (.NET)
+- Html/css/php/js (lol)
+- Python
+## Links
+https://linktr.ee/FiolDoll
+
